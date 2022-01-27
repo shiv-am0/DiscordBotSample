@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DiscordBotSample</string>
+    <string name="title_send">SEND</string>
+</resources>
